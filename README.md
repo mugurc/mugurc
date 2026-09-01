@@ -58,6 +58,11 @@ Contributor. Fixes to the uninstall path in this open-source macOS menu bar tool
 Building storefronts and admin panels on Next.js and Strapi, and slowly
 moving the self-hosted media side of my setup onto Jellyfin plugins.
 
+### Contact
+
+Email — [hi@mugurc.com](mailto:hi@mugurc.com)
+Open to interesting work and open-source collaboration.
+
 </details>
 
 <details>
@@ -105,5 +110,10 @@ Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldır
 
 Next.js ve Strapi üzerinde mağaza arayüzleri ve yönetim panelleri geliştiriyorum.
 Kurulumumun self-hosted medya tarafını da yavaş yavaş Jellyfin eklentilerine taşıyorum.
+
+### İletişim
+
+E-posta — [hi@mugurc.com](mailto:hi@mugurc.com)
+İlgi çekici işlere ve açık kaynak iş birliklerine açığım.
 
 </details>
