@@ -53,6 +53,11 @@ Contributor. Fixes to the uninstall path in this open-source macOS menu bar tool
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugurc&layout=compact&hide_border=true&theme=transparent" />
 </a>
 
+### Currently
+
+Building storefronts and admin panels on Next.js and Strapi, and slowly
+moving the self-hosted media side of my setup onto Jellyfin plugins.
+
 </details>
 
 <details>
@@ -95,5 +100,10 @@ Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldır
   <img height="150" alt="En çok kullanılan diller"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugurc&layout=compact&hide_border=true&theme=transparent" />
 </a>
+
+### Şu sıralar
+
+Next.js ve Strapi üzerinde mağaza arayüzleri ve yönetim panelleri geliştiriyorum.
+Kurulumumun self-hosted medya tarafını da yavaş yavaş Jellyfin eklentilerine taşıyorum.
 
 </details>
