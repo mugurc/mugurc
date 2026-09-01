@@ -63,6 +63,11 @@ moving the self-hosted media side of my setup onto Jellyfin plugins.
 Email — [hi@mugurc.com](mailto:hi@mugurc.com)
 Open to interesting work and open-source collaboration.
 
+### How I work
+
+Small commits, readable diffs, and a preference for boring solutions that
+survive a year. I would rather delete code than add a flag to it.
+
 </details>
 
 <details>
@@ -115,5 +120,10 @@ Kurulumumun self-hosted medya tarafını da yavaş yavaş Jellyfin eklentilerine
 
 E-posta — [hi@mugurc.com](mailto:hi@mugurc.com)
 İlgi çekici işlere ve açık kaynak iş birliklerine açığım.
+
+### Nasıl çalışırım
+
+Küçük commit'ler, okunur diff'ler ve bir yıl sonra hâlâ ayakta duran sıkıcı
+çözümler. Koda bayrak eklemektense kodu silmeyi tercih ederim.
 
 </details>
