@@ -41,6 +41,13 @@ A Next.js front end for Jellyfin.
 **[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift
 Contributor. Fixes to the uninstall path in this open-source macOS menu bar toolkit.
 
+### Stats
+
+<a href="https://github.com/mugurc">
+  <img height="150" alt="GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=mugurc&show_icons=true&hide_border=true&theme=transparent" />
+</a>
+
 </details>
 
 <details>
@@ -71,5 +78,12 @@ Jellyfin için Next.js tabanlı bir arayüz.
 
 **[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift
 Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldırma akışındaki düzeltmeler.
+
+### İstatistikler
+
+<a href="https://github.com/mugurc">
+  <img height="150" alt="GitHub istatistikleri"
+       src="https://github-readme-stats.vercel.app/api?username=mugurc&show_icons=true&hide_border=true&theme=transparent" />
+</a>
 
 </details>
