@@ -48,6 +48,11 @@ Contributor. Fixes to the uninstall path in this open-source macOS menu bar tool
        src="https://github-readme-stats.vercel.app/api?username=mugurc&show_icons=true&hide_border=true&theme=transparent" />
 </a>
 
+<a href="https://github.com/mugurc">
+  <img height="150" alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugurc&layout=compact&hide_border=true&theme=transparent" />
+</a>
+
 </details>
 
 <details>
@@ -84,6 +89,11 @@ Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldır
 <a href="https://github.com/mugurc">
   <img height="150" alt="GitHub istatistikleri"
        src="https://github-readme-stats.vercel.app/api?username=mugurc&show_icons=true&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/mugurc">
+  <img height="150" alt="En çok kullanılan diller"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugurc&layout=compact&hide_border=true&theme=transparent" />
 </a>
 
 </details>
