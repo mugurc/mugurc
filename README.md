@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mugurc.dev">mugurc.dev</a> ·
   <a href="mailto:hi@mugurc.com">Email</a> ·
   <a href="https://github.com/mugurc">GitHub</a>
 </p>
@@ -60,6 +61,7 @@ moving the self-hosted media side of my setup onto Jellyfin plugins.
 
 ### Contact
 
+Website — [mugurc.dev](https://mugurc.dev)
 Email — [hi@mugurc.com](mailto:hi@mugurc.com)
 Open to interesting work and open-source collaboration.
 
@@ -122,6 +124,7 @@ Kurulumumun self-hosted medya tarafını da yavaş yavaş Jellyfin eklentilerine
 
 ### İletişim
 
+Site — [mugurc.dev](https://mugurc.dev)
 E-posta — [hi@mugurc.com](mailto:hi@mugurc.com)
 İlgi çekici işlere ve açık kaynak iş birliklerine açığım.
 
