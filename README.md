@@ -45,8 +45,11 @@ Contributor. Fixes to the uninstall path in this open-source macOS menu bar tool
 
 ### Stats
 
-<img loading="lazy" alt="GitHub streak and total contributions"
-     src="https://streak-stats.demolab.com/?user=mugurc&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mugurc&amp;hide_border=true&amp;background=00000000&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mugurc&amp;hide_border=true&amp;background=00000000&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;sideNums=1f2328&amp;currStreakLabel=0969da&amp;sideLabels=59636e&amp;dates=59636e" />
+  <img loading="lazy" alt="GitHub streak and total contributions" src="https://streak-stats.demolab.com/?user=mugurc&amp;hide_border=true&amp;background=00000000&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;sideNums=1f2328&amp;currStreakLabel=0969da&amp;sideLabels=59636e&amp;dates=59636e" />
+</picture>
 
 ### Currently
 
@@ -103,8 +106,11 @@ Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldır
 
 ### İstatistikler
 
-<img loading="lazy" alt="GitHub katkı serisi ve toplam katkı"
-     src="https://streak-stats.demolab.com/?user=mugurc&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mugurc&amp;hide_border=true&amp;background=00000000&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mugurc&amp;hide_border=true&amp;background=00000000&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;sideNums=1f2328&amp;currStreakLabel=0969da&amp;sideLabels=59636e&amp;dates=59636e" />
+  <img loading="lazy" alt="GitHub katkı serisi ve toplam katkı" src="https://streak-stats.demolab.com/?user=mugurc&amp;hide_border=true&amp;background=00000000&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;sideNums=1f2328&amp;currStreakLabel=0969da&amp;sideLabels=59636e&amp;dates=59636e" />
+</picture>
 
 ### Şu sıralar
 
