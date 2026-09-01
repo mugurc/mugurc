@@ -68,6 +68,10 @@ Open to interesting work and open-source collaboration.
 Small commits, readable diffs, and a preference for boring solutions that
 survive a year. I would rather delete code than add a flag to it.
 
+---
+
+<sub>This README has two tabs — English above, Türkçe below. Click a heading to expand.</sub>
+
 </details>
 
 <details>
@@ -125,5 +129,9 @@ E-posta — [hi@mugurc.com](mailto:hi@mugurc.com)
 
 Küçük commit'ler, okunur diff'ler ve bir yıl sonra hâlâ ayakta duran sıkıcı
 çözümler. Koda bayrak eklemektense kodu silmeyi tercih ederim.
+
+---
+
+<sub>Bu README iki sekmelidir: yukarıda İngilizce, aşağıda Türkçe. Açmak için başlığa tıklayın.</sub>
 
 </details>
