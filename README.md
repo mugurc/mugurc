@@ -45,12 +45,8 @@ Contributor. Fixes to the uninstall path in this open-source macOS menu bar tool
 
 ### Stats
 
-<p>
-  <img height="150" loading="lazy" alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=mugurc&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="150" loading="lazy" alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugurc&layout=compact&hide_border=true&theme=transparent" />
-</p>
+<img loading="lazy" alt="GitHub streak and total contributions"
+     src="https://streak-stats.demolab.com/?user=mugurc&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
 
 ### Currently
 
@@ -107,12 +103,8 @@ Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldır
 
 ### İstatistikler
 
-<p>
-  <img height="150" loading="lazy" alt="GitHub istatistikleri"
-       src="https://github-readme-stats.vercel.app/api?username=mugurc&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="150" loading="lazy" alt="En çok kullanılan diller"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugurc&layout=compact&hide_border=true&theme=transparent" />
-</p>
+<img loading="lazy" alt="GitHub katkı serisi ve toplam katkı"
+     src="https://streak-stats.demolab.com/?user=mugurc&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
 
 ### Şu sıralar
 
