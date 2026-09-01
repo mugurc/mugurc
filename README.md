@@ -30,6 +30,17 @@ storefronts, admin panels, internal tools, and the occasional self-hosted media 
 **Data** PostgreSQL · Redis
 **Ops** Docker · GitHub Actions · Vercel
 
+### Featured projects
+
+**[jellyfin-plugin-pre-transcode](https://github.com/mugurc/jellyfin-plugin-pre-transcode)** — C#
+Pre-transcodes media for Jellyfin so playback does not stall on the first seek.
+
+**[jellynext](https://github.com/mugurc/jellynext)** — TypeScript
+A Next.js front end for Jellyfin.
+
+**[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift
+Contributor. Fixes to the uninstall path in this open-source macOS menu bar toolkit.
+
 </details>
 
 <details>
@@ -49,5 +60,16 @@ mağaza arayüzleri, yönetim panelleri, iç araçlar ve arada C# ile self-hoste
 **Arka yüz** Node.js · Strapi · Supabase · REST
 **Veri** PostgreSQL · Redis
 **Operasyon** Docker · GitHub Actions · Vercel
+
+### Öne çıkan projeler
+
+**[jellyfin-plugin-pre-transcode](https://github.com/mugurc/jellyfin-plugin-pre-transcode)** — C#
+Jellyfin için medyayı önceden dönüştürür; ilk ileri sarmada oynatma takılmaz.
+
+**[jellynext](https://github.com/mugurc/jellynext)** — TypeScript
+Jellyfin için Next.js tabanlı bir arayüz.
+
+**[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift
+Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldırma akışındaki düzeltmeler.
 
 </details>
