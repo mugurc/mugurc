@@ -25,21 +25,23 @@ storefronts, admin panels, internal tools, and the occasional self-hosted media 
 
 ### Tech stack
 
-**Language** TypeScript · JavaScript · C# · SQL
-**Front end** Next.js · React · Tailwind CSS
-**Back end** Node.js · Strapi · Supabase · REST
-**Data** PostgreSQL · Redis
-**Ops** Docker · GitHub Actions · Vercel
+| | |
+|---|---|
+| **Language** | TypeScript · JavaScript · C# · SQL |
+| **Front end** | Next.js · React · Tailwind CSS |
+| **Back end** | Node.js · Strapi · Supabase · REST |
+| **Data** | PostgreSQL · Redis |
+| **Ops** | Docker · GitHub Actions · Vercel |
 
 ### Featured projects
 
-**[jellyfin-plugin-pre-transcode](https://github.com/mugurc/jellyfin-plugin-pre-transcode)** — C#
+**[jellyfin-plugin-pre-transcode](https://github.com/mugurc/jellyfin-plugin-pre-transcode)** — C#<br>
 Pre-transcodes media for Jellyfin so playback does not stall on the first seek.
 
-**[jellynext](https://github.com/mugurc/jellynext)** — TypeScript
+**[jellynext](https://github.com/mugurc/jellynext)** — TypeScript<br>
 A Next.js front end for Jellyfin.
 
-**[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift
+**[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift<br>
 Contributor. Fixes to the uninstall path in this open-source macOS menu bar toolkit.
 
 ### Stats
@@ -59,17 +61,17 @@ Contributor. Fixes to the uninstall path in this open-source macOS menu bar tool
 Building storefronts and admin panels on Next.js and Strapi, and slowly
 moving the self-hosted media side of my setup onto Jellyfin plugins.
 
-### Contact
-
-Website — [mugurc.dev](https://mugurc.dev)
-Email — [hi@mugurc.com](mailto:hi@mugurc.com)
-Open to interesting work and open-source collaboration.
-
 ### How I work
 
 Small commits, readable diffs, and a preference for boring solutions that
 survive a year. I would rather delete code than add a flag to it.
 
+
+### Contact
+
+Website — [mugurc.dev](https://mugurc.dev)<br>
+Email — [hi@mugurc.com](mailto:hi@mugurc.com)<br>
+Open to interesting work and open-source collaboration.
 ---
 
 <sub>This README has two tabs — English above, Türkçe below. Click a heading to expand.</sub>
@@ -88,21 +90,23 @@ mağaza arayüzleri, yönetim panelleri, iç araçlar ve arada C# ile self-hoste
 
 ### Teknolojiler
 
-**Dil** TypeScript · JavaScript · C# · SQL
-**Ön yüz** Next.js · React · Tailwind CSS
-**Arka yüz** Node.js · Strapi · Supabase · REST
-**Veri** PostgreSQL · Redis
-**Operasyon** Docker · GitHub Actions · Vercel
+| | |
+|---|---|
+| **Dil** | TypeScript · JavaScript · C# · SQL |
+| **Ön yüz** | Next.js · React · Tailwind CSS |
+| **Arka yüz** | Node.js · Strapi · Supabase · REST |
+| **Veri** | PostgreSQL · Redis |
+| **Operasyon** | Docker · GitHub Actions · Vercel |
 
 ### Öne çıkan projeler
 
-**[jellyfin-plugin-pre-transcode](https://github.com/mugurc/jellyfin-plugin-pre-transcode)** — C#
+**[jellyfin-plugin-pre-transcode](https://github.com/mugurc/jellyfin-plugin-pre-transcode)** — C#<br>
 Jellyfin için medyayı önceden dönüştürür; ilk ileri sarmada oynatma takılmaz.
 
-**[jellynext](https://github.com/mugurc/jellynext)** — TypeScript
+**[jellynext](https://github.com/mugurc/jellynext)** — TypeScript<br>
 Jellyfin için Next.js tabanlı bir arayüz.
 
-**[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift
+**[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Swift<br>
 Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldırma akışındaki düzeltmeler.
 
 ### İstatistikler
@@ -122,17 +126,17 @@ Katkıda bulunan. Bu açık kaynaklı macOS menü çubuğu araç setinin kaldır
 Next.js ve Strapi üzerinde mağaza arayüzleri ve yönetim panelleri geliştiriyorum.
 Kurulumumun self-hosted medya tarafını da yavaş yavaş Jellyfin eklentilerine taşıyorum.
 
-### İletişim
-
-Site — [mugurc.dev](https://mugurc.dev)
-E-posta — [hi@mugurc.com](mailto:hi@mugurc.com)
-İlgi çekici işlere ve açık kaynak iş birliklerine açığım.
-
 ### Nasıl çalışırım
 
 Küçük commit'ler, okunur diff'ler ve bir yıl sonra hâlâ ayakta duran sıkıcı
 çözümler. Koda bayrak eklemektense kodu silmeyi tercih ederim.
 
+
+### İletişim
+
+Site — [mugurc.dev](https://mugurc.dev)<br>
+E-posta — [hi@mugurc.com](mailto:hi@mugurc.com)<br>
+İlgi çekici işlere ve açık kaynak iş birliklerine açığım.
 ---
 
 <sub>Bu README iki sekmelidir: yukarıda İngilizce, aşağıda Türkçe. Açmak için başlığa tıklayın.</sub>
